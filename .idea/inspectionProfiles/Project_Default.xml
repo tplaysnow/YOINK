@@ -1,0 +1,113 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="91">
+            <item index="0" class="java.lang.String" itemvalue="numba" />
+            <item index="1" class="java.lang.String" itemvalue="llvmlite" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="Flask-SocketIO" />
+            <item index="4" class="java.lang.String" itemvalue="Flask" />
+            <item index="5" class="java.lang.String" itemvalue="greenlet" />
+            <item index="6" class="java.lang.String" itemvalue="Brlapi" />
+            <item index="7" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="8" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="9" class="java.lang.String" itemvalue="productmd" />
+            <item index="10" class="java.lang.String" itemvalue="pycups" />
+            <item index="11" class="java.lang.String" itemvalue="python-linux-procfs" />
+            <item index="12" class="java.lang.String" itemvalue="pid" />
+            <item index="13" class="java.lang.String" itemvalue="pycairo" />
+            <item index="14" class="java.lang.String" itemvalue="construct" />
+            <item index="15" class="java.lang.String" itemvalue="PyGObject" />
+            <item index="16" class="java.lang.String" itemvalue="crypt_r" />
+            <item index="17" class="java.lang.String" itemvalue="pynvim" />
+            <item index="18" class="java.lang.String" itemvalue="libcomps" />
+            <item index="19" class="java.lang.String" itemvalue="simpleline" />
+            <item index="20" class="java.lang.String" itemvalue="systemd-python" />
+            <item index="21" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="22" class="java.lang.String" itemvalue="setools" />
+            <item index="23" class="java.lang.String" itemvalue="pygdbmi" />
+            <item index="24" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="25" class="java.lang.String" itemvalue="sos" />
+            <item index="26" class="java.lang.String" itemvalue="certifi" />
+            <item index="27" class="java.lang.String" itemvalue="pykickstart" />
+            <item index="28" class="java.lang.String" itemvalue="PyQt5_sip" />
+            <item index="29" class="java.lang.String" itemvalue="python-augeas" />
+            <item index="30" class="java.lang.String" itemvalue="lxml" />
+            <item index="31" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="32" class="java.lang.String" itemvalue="dasbus" />
+            <item index="33" class="java.lang.String" itemvalue="pyparted" />
+            <item index="34" class="java.lang.String" itemvalue="blivet-gui" />
+            <item index="35" class="java.lang.String" itemvalue="dnf" />
+            <item index="36" class="java.lang.String" itemvalue="pyinotify" />
+            <item index="37" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="38" class="java.lang.String" itemvalue="rpmlint" />
+            <item index="39" class="java.lang.String" itemvalue="argcomplete" />
+            <item index="40" class="java.lang.String" itemvalue="fedora-third-party" />
+            <item index="41" class="java.lang.String" itemvalue="pexpect" />
+            <item index="42" class="java.lang.String" itemvalue="click" />
+            <item index="43" class="java.lang.String" itemvalue="pyxdg" />
+            <item index="44" class="java.lang.String" itemvalue="boto3" />
+            <item index="45" class="java.lang.String" itemvalue="regex" />
+            <item index="46" class="java.lang.String" itemvalue="rpmautospec" />
+            <item index="47" class="java.lang.String" itemvalue="PySocks" />
+            <item index="48" class="java.lang.String" itemvalue="libdnf" />
+            <item index="49" class="java.lang.String" itemvalue="requests-file" />
+            <item index="50" class="java.lang.String" itemvalue="blivet" />
+            <item index="51" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="52" class="java.lang.String" itemvalue="humanize" />
+            <item index="53" class="java.lang.String" itemvalue="file-magic" />
+            <item index="54" class="java.lang.String" itemvalue="pyenchant" />
+            <item index="55" class="java.lang.String" itemvalue="msgpack" />
+            <item index="56" class="java.lang.String" itemvalue="idna" />
+            <item index="57" class="java.lang.String" itemvalue="distro" />
+            <item index="58" class="java.lang.String" itemvalue="iso639" />
+            <item index="59" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="60" class="java.lang.String" itemvalue="python-meh" />
+            <item index="61" class="java.lang.String" itemvalue="requests" />
+            <item index="62" class="java.lang.String" itemvalue="pybeam" />
+            <item index="63" class="java.lang.String" itemvalue="initial-setup" />
+            <item index="64" class="java.lang.String" itemvalue="cupshelpers" />
+            <item index="65" class="java.lang.String" itemvalue="langtable" />
+            <item index="66" class="java.lang.String" itemvalue="pygit2" />
+            <item index="67" class="java.lang.String" itemvalue="louis" />
+            <item index="68" class="java.lang.String" itemvalue="urllib3" />
+            <item index="69" class="java.lang.String" itemvalue="perf" />
+            <item index="70" class="java.lang.String" itemvalue="six" />
+            <item index="71" class="java.lang.String" itemvalue="botocore" />
+            <item index="72" class="java.lang.String" itemvalue="python-utils" />
+            <item index="73" class="java.lang.String" itemvalue="progressbar2" />
+            <item index="74" class="java.lang.String" itemvalue="tomli_w" />
+            <item index="75" class="java.lang.String" itemvalue="nftables" />
+            <item index="76" class="java.lang.String" itemvalue="packaging" />
+            <item index="77" class="java.lang.String" itemvalue="rpm" />
+            <item index="78" class="java.lang.String" itemvalue="simpleaudio" />
+            <item index="79" class="java.lang.String" itemvalue="jmespath" />
+            <item index="80" class="java.lang.String" itemvalue="rpmautospec-core" />
+            <item index="81" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="82" class="java.lang.String" itemvalue="pwquality" />
+            <item index="83" class="java.lang.String" itemvalue="pyudev" />
+            <item index="84" class="java.lang.String" itemvalue="babel" />
+            <item index="85" class="java.lang.String" itemvalue="xkbregistry" />
+            <item index="86" class="java.lang.String" itemvalue="dbus-python" />
+            <item index="87" class="java.lang.String" itemvalue="click-plugins" />
+            <item index="88" class="java.lang.String" itemvalue="ply" />
+            <item index="89" class="java.lang.String" itemvalue="legacy-cgi" />
+            <item index="90" class="java.lang.String" itemvalue="requests-ftp" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
